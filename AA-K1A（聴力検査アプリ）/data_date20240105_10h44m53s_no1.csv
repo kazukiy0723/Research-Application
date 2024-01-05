@@ -1,0 +1,7 @@
+Frequency [Hz],Right, ,Left, ,
+250,50, ,15, 
+500,50, ,5, 
+1000,70, ,25, 
+2000,70, ,40, 
+4000,85, ,60, 
+8000,85,minimum value,85,minimum value
